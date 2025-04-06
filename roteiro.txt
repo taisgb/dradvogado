@@ -1,0 +1,25 @@
+1. HOME  
+   → Header com OAB/BA 76.138 + WhatsApp fixo  
+   → Hero section com foto profissional e chamada de ação  
+   → Diferenciais (ex-gestor DP + pós-graduação)  
+
+2. SOBRE  
+   → Biografia com timeline profissional  
+   → Selos (OAB, pós-graduação, casos atendidos)  
+
+3. SERVIÇOS (cards interativos)  
+   → 8 áreas de atuação com vídeos integrados  
+   → Filtro "Sou Trabalhador" / "Sou Empresa"  
+
+4. MÉTODO  
+   → Passos ilustrados do atendimento  
+   → FAQ jurídico  
+
+5. BLOG  
+   → Artigos com embed de vídeos do Instagram  
+   → Newsletter "Direitos Trabalhistas em 1 Minuto"  
+
+6. CONTATO  
+   → Formulário inteligente por tipo de caso  
+   → Mapa de atuação nacional  
+   → Links para redes sociais
